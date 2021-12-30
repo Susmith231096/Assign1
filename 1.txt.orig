@@ -1,5 +1,7 @@
 This is Master Commit
 This is the change made in develop branch
+<<<<<<< HEAD
 This is the change made in f1 branch
+=======
 This is the change made in f2 branch
-
+>>>>>>> f2
